@@ -1,1 +1,7 @@
+#+TITLE: rails-snippets
 
+* Table of Contents                                       :TOC_4_gh:noexport:
+- [[#description][Description]]
+
+* Description
+  Rails snippets for yasnippet.
