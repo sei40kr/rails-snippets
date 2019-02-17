@@ -4,4 +4,4 @@
 - [[#description][Description]]
 
 * Description
-  Rails snippets for yasnippet.
+  Rails snippets for yasnippet. Ported from [[https://github.com/joseramonc/rails-snippets][@joseramonc's rails-snippets]].
