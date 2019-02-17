@@ -1,0 +1,6 @@
+# name : after_validation
+# key : aftervalidation
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+after_validation :${1:method_name} ${2:if: :${3:conditional_method}}

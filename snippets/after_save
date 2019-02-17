@@ -1,0 +1,6 @@
+# name : after_save
+# key : aftersave
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+after_save :${1:method_name} ${2:if: :${3:conditional_method}}
