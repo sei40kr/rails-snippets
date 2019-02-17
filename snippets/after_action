@@ -1,0 +1,6 @@
+# name : after_action
+# key : afteraction
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+after_action :${1:method_name}, only: [:${2:index}]

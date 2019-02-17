@@ -1,0 +1,6 @@
+# name : before_action
+# key : beforeaction
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+before_action :${1:method_name}, only: [:${2:index}]

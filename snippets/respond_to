@@ -1,0 +1,9 @@
+# name : respond_to
+# key : respondto
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+respond_to do |format|
+  format.html
+  format.json { render json: @${1:resource} }
+end

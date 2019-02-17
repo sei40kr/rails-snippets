@@ -1,0 +1,6 @@
+# name : render
+# key : render
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+render "${1:action}"

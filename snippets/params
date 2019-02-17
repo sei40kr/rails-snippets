@@ -1,0 +1,10 @@
+# name : whitelist params
+# key : params
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+def ${1:model}_params
+  params.require(:${1:model}).permit(
+    :${2:attr}
+  )
+end

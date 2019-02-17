@@ -1,0 +1,6 @@
+# name : redirect_to
+# key : redirectto
+# contributor : Seong Yong-ju <sei40kr@gmail.com>
+# --
+
+redirect_to ${1:resource}_url
